@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/bin/Debug/net9.0/34_Week_Day_Weekend_Check
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/bin/Debug/net9.0/34_Week_Day_Weekend_Check.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/bin/Debug/net9.0/34_Week_Day_Weekend_Check.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/bin/Debug/net9.0/34_Week_Day_Weekend_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/bin/Debug/net9.0/34_Week_Day_Weekend_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/refint/34_Week_Day_Weekend_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/34_Week_Day_Weekend_Check.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/34_Week_Day_Weekend_Check/obj/Debug/net9.0/ref/34_Week_Day_Weekend_Check.dll

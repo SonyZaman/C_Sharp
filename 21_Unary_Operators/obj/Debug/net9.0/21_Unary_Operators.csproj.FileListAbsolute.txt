@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/bin/Debug/net9.0/21_Unary_Operators
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/bin/Debug/net9.0/21_Unary_Operators.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/bin/Debug/net9.0/21_Unary_Operators.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/bin/Debug/net9.0/21_Unary_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/bin/Debug/net9.0/21_Unary_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/refint/21_Unary_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/21_Unary_Operators.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/21_Unary_Operators/obj/Debug/net9.0/ref/21_Unary_Operators.dll

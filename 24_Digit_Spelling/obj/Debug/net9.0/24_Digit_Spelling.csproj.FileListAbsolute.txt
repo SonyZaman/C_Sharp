@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/bin/Debug/net9.0/24_Digit_Spelling
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/bin/Debug/net9.0/24_Digit_Spelling.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/bin/Debug/net9.0/24_Digit_Spelling.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/bin/Debug/net9.0/24_Digit_Spelling.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/bin/Debug/net9.0/24_Digit_Spelling.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/refint/24_Digit_Spelling.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/24_Digit_Spelling.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/24_Digit_Spelling/obj/Debug/net9.0/ref/24_Digit_Spelling.dll

@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/bin/Debug/net9.0/14_Circle_Area
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/bin/Debug/net9.0/14_Circle_Area.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/bin/Debug/net9.0/14_Circle_Area.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/bin/Debug/net9.0/14_Circle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/bin/Debug/net9.0/14_Circle_Area.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/refint/14_Circle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/14_Circle_Area.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/14_Circle_Area/obj/Debug/net9.0/ref/14_Circle_Area.dll

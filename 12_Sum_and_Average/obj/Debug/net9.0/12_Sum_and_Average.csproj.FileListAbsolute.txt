@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/bin/Debug/net9.0/12_Sum_and_Average
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/bin/Debug/net9.0/12_Sum_and_Average.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/bin/Debug/net9.0/12_Sum_and_Average.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/bin/Debug/net9.0/12_Sum_and_Average.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/bin/Debug/net9.0/12_Sum_and_Average.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/refint/12_Sum_and_Average.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/12_Sum_and_Average.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/12_Sum_and_Average/obj/Debug/net9.0/ref/12_Sum_and_Average.dll

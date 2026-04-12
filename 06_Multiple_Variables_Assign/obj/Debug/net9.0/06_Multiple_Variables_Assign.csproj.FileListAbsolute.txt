@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/bin/Debug/net9.0/06_Multiple_Variables_Assign
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/bin/Debug/net9.0/06_Multiple_Variables_Assign.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/bin/Debug/net9.0/06_Multiple_Variables_Assign.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/bin/Debug/net9.0/06_Multiple_Variables_Assign.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/bin/Debug/net9.0/06_Multiple_Variables_Assign.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/refint/06_Multiple_Variables_Assign.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/06_Multiple_Variables_Assign.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/06_Multiple_Variables_Assign/obj/Debug/net9.0/ref/06_Multiple_Variables_Assign.dll

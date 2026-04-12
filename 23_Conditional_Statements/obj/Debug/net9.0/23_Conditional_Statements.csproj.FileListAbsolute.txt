@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/bin/Debug/net9.0/23_Conditional_Statements
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/bin/Debug/net9.0/23_Conditional_Statements.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/bin/Debug/net9.0/23_Conditional_Statements.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/bin/Debug/net9.0/23_Conditional_Statements.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/bin/Debug/net9.0/23_Conditional_Statements.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/refint/23_Conditional_Statements.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/23_Conditional_Statements.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/23_Conditional_Statements/obj/Debug/net9.0/ref/23_Conditional_Statements.dll

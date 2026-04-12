@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/bin/Debug/net9.0/33_Vowel_Consonant_Switch
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/bin/Debug/net9.0/33_Vowel_Consonant_Switch.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/bin/Debug/net9.0/33_Vowel_Consonant_Switch.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/bin/Debug/net9.0/33_Vowel_Consonant_Switch.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/bin/Debug/net9.0/33_Vowel_Consonant_Switch.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/refint/33_Vowel_Consonant_Switch.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/33_Vowel_Consonant_Switch.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/33_Vowel_Consonant_Switch/obj/Debug/net9.0/ref/33_Vowel_Consonant_Switch.dll

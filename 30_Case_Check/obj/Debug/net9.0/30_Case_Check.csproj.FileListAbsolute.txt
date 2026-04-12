@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/bin/Debug/net9.0/30_Case_Check
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/bin/Debug/net9.0/30_Case_Check.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/bin/Debug/net9.0/30_Case_Check.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/bin/Debug/net9.0/30_Case_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/bin/Debug/net9.0/30_Case_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/refint/30_Case_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/30_Case_Check.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/30_Case_Check/obj/Debug/net9.0/ref/30_Case_Check.dll

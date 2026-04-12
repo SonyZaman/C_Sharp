@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/bin/Debug/net9.0/18_Relational_Operators
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/bin/Debug/net9.0/18_Relational_Operators.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/bin/Debug/net9.0/18_Relational_Operators.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/bin/Debug/net9.0/18_Relational_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/bin/Debug/net9.0/18_Relational_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/refint/18_Relational_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/18_Relational_Operators.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/18_Relational_Operators/obj/Debug/net9.0/ref/18_Relational_Operators.dll

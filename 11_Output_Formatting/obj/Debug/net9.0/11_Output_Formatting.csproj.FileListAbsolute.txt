@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/bin/Debug/net9.0/11_Output_Formatting
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/bin/Debug/net9.0/11_Output_Formatting.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/bin/Debug/net9.0/11_Output_Formatting.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/bin/Debug/net9.0/11_Output_Formatting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/bin/Debug/net9.0/11_Output_Formatting.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/refint/11_Output_Formatting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/11_Output_Formatting.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/11_Output_Formatting/obj/Debug/net9.0/ref/11_Output_Formatting.dll

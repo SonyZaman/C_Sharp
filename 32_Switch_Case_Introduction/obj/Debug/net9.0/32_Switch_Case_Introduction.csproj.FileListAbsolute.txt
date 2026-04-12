@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/bin/Debug/net9.0/32_Switch_Case_Introduction
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/bin/Debug/net9.0/32_Switch_Case_Introduction.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/bin/Debug/net9.0/32_Switch_Case_Introduction.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/bin/Debug/net9.0/32_Switch_Case_Introduction.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/bin/Debug/net9.0/32_Switch_Case_Introduction.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/refint/32_Switch_Case_Introduction.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/32_Switch_Case_Introduction.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/32_Switch_Case_Introduction/obj/Debug/net9.0/ref/32_Switch_Case_Introduction.dll

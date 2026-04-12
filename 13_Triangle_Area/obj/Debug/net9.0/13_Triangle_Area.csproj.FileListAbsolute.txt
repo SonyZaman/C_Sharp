@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/bin/Debug/net9.0/13_Triangle_Area
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/bin/Debug/net9.0/13_Triangle_Area.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/bin/Debug/net9.0/13_Triangle_Area.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/bin/Debug/net9.0/13_Triangle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/bin/Debug/net9.0/13_Triangle_Area.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/refint/13_Triangle_Area.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/13_Triangle_Area.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/13_Triangle_Area/obj/Debug/net9.0/ref/13_Triangle_Area.dll

@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/bin/Debug/net9.0/22_Ternary_Operator
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/bin/Debug/net9.0/22_Ternary_Operator.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/bin/Debug/net9.0/22_Ternary_Operator.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/bin/Debug/net9.0/22_Ternary_Operator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/bin/Debug/net9.0/22_Ternary_Operator.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/refint/22_Ternary_Operator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/22_Ternary_Operator.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/22_Ternary_Operator/obj/Debug/net9.0/ref/22_Ternary_Operator.dll

@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/bin/Debug/net9.0/17_Assignment_Operators
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/bin/Debug/net9.0/17_Assignment_Operators.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/bin/Debug/net9.0/17_Assignment_Operators.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/bin/Debug/net9.0/17_Assignment_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/bin/Debug/net9.0/17_Assignment_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/refint/17_Assignment_Operators.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/17_Assignment_Operators.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/17_Assignment_Operators/obj/Debug/net9.0/ref/17_Assignment_Operators.dll

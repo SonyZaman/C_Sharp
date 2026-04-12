@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/bin/Debug/net9.0/15_Fahrenheit_to_Celsius
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/bin/Debug/net9.0/15_Fahrenheit_to_Celsius.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/bin/Debug/net9.0/15_Fahrenheit_to_Celsius.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/bin/Debug/net9.0/15_Fahrenheit_to_Celsius.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/bin/Debug/net9.0/15_Fahrenheit_to_Celsius.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/refint/15_Fahrenheit_to_Celsius.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/15_Fahrenheit_to_Celsius.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/15_Fahrenheit_to_Celsius/obj/Debug/net9.0/ref/15_Fahrenheit_to_Celsius.dll

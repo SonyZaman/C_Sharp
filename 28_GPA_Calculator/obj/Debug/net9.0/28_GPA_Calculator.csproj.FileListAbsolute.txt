@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/bin/Debug/net9.0/28_GPA_Calculator
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/bin/Debug/net9.0/28_GPA_Calculator.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/bin/Debug/net9.0/28_GPA_Calculator.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/bin/Debug/net9.0/28_GPA_Calculator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/bin/Debug/net9.0/28_GPA_Calculator.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/refint/28_GPA_Calculator.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/28_GPA_Calculator.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/28_GPA_Calculator/obj/Debug/net9.0/ref/28_GPA_Calculator.dll

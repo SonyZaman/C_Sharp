@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/bin/Debug/net9.0/31_Vowel_Consonant_If_Else
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/bin/Debug/net9.0/31_Vowel_Consonant_If_Else.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/bin/Debug/net9.0/31_Vowel_Consonant_If_Else.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/bin/Debug/net9.0/31_Vowel_Consonant_If_Else.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/bin/Debug/net9.0/31_Vowel_Consonant_If_Else.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/refint/31_Vowel_Consonant_If_Else.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/31_Vowel_Consonant_If_Else.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/31_Vowel_Consonant_If_Else/obj/Debug/net9.0/ref/31_Vowel_Consonant_If_Else.dll

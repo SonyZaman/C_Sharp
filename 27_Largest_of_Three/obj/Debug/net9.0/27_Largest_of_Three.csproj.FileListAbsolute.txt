@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/bin/Debug/net9.0/27_Largest_of_Three
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/bin/Debug/net9.0/27_Largest_of_Three.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/bin/Debug/net9.0/27_Largest_of_Three.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/bin/Debug/net9.0/27_Largest_of_Three.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/bin/Debug/net9.0/27_Largest_of_Three.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/refint/27_Largest_of_Three.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/27_Largest_of_Three.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/27_Largest_of_Three/obj/Debug/net9.0/ref/27_Largest_of_Three.dll

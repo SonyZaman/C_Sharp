@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "19_Logical_Operators/1.0.0": {
+        "runtime": {
+          "19_Logical_Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19_Logical_Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

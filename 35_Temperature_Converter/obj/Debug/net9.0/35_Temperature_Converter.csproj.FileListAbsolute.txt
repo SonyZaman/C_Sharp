@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/bin/Debug/net9.0/35_Temperature_Converter
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/bin/Debug/net9.0/35_Temperature_Converter.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/bin/Debug/net9.0/35_Temperature_Converter.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/bin/Debug/net9.0/35_Temperature_Converter.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/bin/Debug/net9.0/35_Temperature_Converter.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/refint/35_Temperature_Converter.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/35_Temperature_Converter.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/35_Temperature_Converter/obj/Debug/net9.0/ref/35_Temperature_Converter.dll

@@ -1,0 +1,14 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/bin/Debug/net9.0/29_Leap_Year_Check
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/bin/Debug/net9.0/29_Leap_Year_Check.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/bin/Debug/net9.0/29_Leap_Year_Check.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/bin/Debug/net9.0/29_Leap_Year_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/bin/Debug/net9.0/29_Leap_Year_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/refint/29_Leap_Year_Check.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/29_Leap_Year_Check.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/29_Leap_Year_Check/obj/Debug/net9.0/ref/29_Leap_Year_Check.dll
