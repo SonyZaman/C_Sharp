@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/01_Introduction_to_Console/01_Introduction_to_Console.csproj",
-      "projectName": "01_Introduction_to_Console",
-      "projectPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/01_Introduction_to_Console/01_Introduction_to_Console.csproj",
+      "projectUniqueName": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/1/FirstConsoleApp.csproj",
+      "projectName": "FirstConsoleApp",
+      "projectPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/1/FirstConsoleApp.csproj",
       "packagesPath": "/Users/sonyzaman/.nuget/packages/",
-      "outputPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/01_Introduction_to_Console/obj/",
+      "outputPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sonyzaman/.nuget/NuGet/NuGet.Config"

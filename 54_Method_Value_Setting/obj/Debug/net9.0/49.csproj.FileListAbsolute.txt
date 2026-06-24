@@ -1,0 +1,15 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/bin/Debug/net9.0/49
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/bin/Debug/net9.0/49.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/bin/Debug/net9.0/49.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/bin/Debug/net9.0/49.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/bin/Debug/net9.0/49.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.sourcelink.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/refint/49.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/49.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/49/obj/Debug/net9.0/ref/49.dll

@@ -1,0 +1,15 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/bin/Debug/net9.0/02_Basic_Structure
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/bin/Debug/net9.0/02_Basic_Structure.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/bin/Debug/net9.0/02_Basic_Structure.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/bin/Debug/net9.0/02_Basic_Structure.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/bin/Debug/net9.0/02_Basic_Structure.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.sourcelink.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/refint/02_Basic_Structure.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/02_Basic_Structure.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/02_Basic_Structure/obj/Debug/net9.0/ref/02_Basic_Structure.dll

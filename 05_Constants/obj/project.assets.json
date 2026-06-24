@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/05_Constants/05_Constants.csproj",
-      "projectName": "05_Constants",
-      "projectPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/05_Constants/05_Constants.csproj",
+      "projectUniqueName": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/05/t.csproj",
+      "projectName": "t",
+      "projectPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/05/t.csproj",
       "packagesPath": "/Users/sonyzaman/.nuget/packages/",
-      "outputPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/05_Constants/obj/",
+      "outputPath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Tutorial-1/05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sonyzaman/.nuget/NuGet/NuGet.Config"

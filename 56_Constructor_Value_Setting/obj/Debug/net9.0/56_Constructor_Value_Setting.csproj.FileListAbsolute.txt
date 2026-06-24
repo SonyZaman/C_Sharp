@@ -1,0 +1,15 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/bin/Debug/net9.0/56_Constructor_Value_Setting
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/bin/Debug/net9.0/56_Constructor_Value_Setting.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/bin/Debug/net9.0/56_Constructor_Value_Setting.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/bin/Debug/net9.0/56_Constructor_Value_Setting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/bin/Debug/net9.0/56_Constructor_Value_Setting.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.sourcelink.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/refint/56_Constructor_Value_Setting.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/56_Constructor_Value_Setting.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/56_Constructor_Value_Setting/obj/Debug/net9.0/ref/56_Constructor_Value_Setting.dll
