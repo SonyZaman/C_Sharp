@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "119_LINQ_SelectMany/1.0.0": {
+        "runtime": {
+          "119_LINQ_SelectMany.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "119_LINQ_SelectMany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

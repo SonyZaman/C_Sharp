@@ -1,0 +1,15 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/bin/Debug/net9.0/119_LINQ_SelectMany
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/bin/Debug/net9.0/119_LINQ_SelectMany.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/bin/Debug/net9.0/119_LINQ_SelectMany.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/bin/Debug/net9.0/119_LINQ_SelectMany.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/bin/Debug/net9.0/119_LINQ_SelectMany.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.sourcelink.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/refint/119_LINQ_SelectMany.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/119_LINQ_SelectMany.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/119_LINQ_SelectMany/obj/Debug/net9.0/ref/119_LINQ_SelectMany.dll
