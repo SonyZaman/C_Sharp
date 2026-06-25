@@ -1,0 +1,15 @@
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/bin/Debug/net9.0/98_Params_Keyword
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/bin/Debug/net9.0/98_Params_Keyword.deps.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/bin/Debug/net9.0/98_Params_Keyword.runtimeconfig.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/bin/Debug/net9.0/98_Params_Keyword.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/bin/Debug/net9.0/98_Params_Keyword.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.AssemblyInfoInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.AssemblyInfo.cs
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.csproj.CoreCompileInputs.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.sourcelink.json
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/refint/98_Params_Keyword.dll
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.pdb
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/98_Params_Keyword.genruntimeconfig.cache
+/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/98_Params_Keyword/obj/Debug/net9.0/ref/98_Params_Keyword.dll
