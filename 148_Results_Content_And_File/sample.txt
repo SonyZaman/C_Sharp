@@ -1,0 +1,1 @@
+Hello! You successfully downloaded this file from an ASP.NET Core Minimal API using Results.File()!
