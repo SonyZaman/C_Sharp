@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ct0NTyipYzI=",
+  "success": true,
+  "projectFilePath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/183_Logical_Validation/183_Logical_Validation.csproj",
+  "expectedPackageFiles": [
+    "/Users/sonyzaman/.nuget/packages/minivalidation/0.10.0/minivalidation.0.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

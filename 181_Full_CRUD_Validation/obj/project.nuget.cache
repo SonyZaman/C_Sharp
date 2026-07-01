@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EhkRqsq9Ap0=",
+  "success": true,
+  "projectFilePath": "/Users/sonyzaman/Desktop/Programming_Hero_YKW/Anisul_islam_dotnet/Note/181_Full_CRUD_Validation/181_Full_CRUD_Validation.csproj",
+  "expectedPackageFiles": [
+    "/Users/sonyzaman/.nuget/packages/minivalidation/0.10.0/minivalidation.0.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

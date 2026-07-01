@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "182_Mini_Project_UserManagement/1.0.0": {
+        "dependencies": {
+          "MiniValidation": "0.10.0"
+        },
+        "runtime": {
+          "182_Mini_Project_UserManagement.dll": {}
+        }
+      },
+      "MiniValidation/0.10.0": {
+        "runtime": {
+          "lib/net8.0/MiniValidation.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "182_Mini_Project_UserManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniValidation/0.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZNDIyFTLppmmUck8fUMxi0dJL94MKPM8QPc1V/cD3HG2ZLUV9/e7ldVlxM9H/y/3sxI7b2CZNxnW7OnhRMZPrQ==",
+      "path": "minivalidation/0.10.0",
+      "hashPath": "minivalidation.0.10.0.nupkg.sha512"
+    }
+  }
+}
